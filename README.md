@@ -18,3 +18,6 @@ jeffds126@gmail.com
 
 ## Formação Acadêmica
 Cursando Análise e Desenvolvimento de Sistemas [UNIMAR](https://unimar.br)
+
+[GitHub](https://github.com/JeffersonADS)
+[Gitlab](https://gitlab.com/jeffersonpvieira2)
